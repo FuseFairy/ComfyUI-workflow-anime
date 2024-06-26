@@ -2,7 +2,7 @@
 
 ![workflow](https://i.imgur.com/xeVB9dn.png)
 
-Use Comfyui on Kaggle：https://www.kaggle.com/code/zhuangerror/comfyui
+Use ComfyUI on Kaggle：https://www.kaggle.com/code/zhuangerror/comfyui
 
 # Currently workflow
 * OpenPose2Image
