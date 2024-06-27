@@ -20,9 +20,9 @@ Use ComfyUI on Kaggle：https://www.kaggle.com/code/zhuangerror/comfyui
     <td style="text-align: center;">Upscale Image</td>
   </tr>
   <tr>
-    <td><img src="https://iili.io/d3wLnXj.png" alt="OpenPose2Image" width="300"/></td>
-    <td><img src="https://iili.io/d3rB7ZN.png" alt="Fix Hand" width="300"/></td>
-    <td><img src="https://iili.io/d3rC1WB.png" alt="Upscale Image" width="300"/></td>
+    <td><img src="https://iili.io/d3wLnXj.png" alt="OpenPose2Image" width="250"/></td>
+    <td><img src="https://iili.io/d3rB7ZN.png" alt="Fix Hand" width="250"/></td>
+    <td><img src="https://iili.io/d3rC1WB.png" alt="Upscale Image" width="250"/></td>
   </tr>
 </table>
 
