@@ -10,7 +10,13 @@ Use ComfyUI on Kaggle：https://www.kaggle.com/code/zhuangerror/comfyui
 * Fix Hand
 * Upscale Image
 
-# Example
+<details>
+   <summary>
+     
+   # Example
+
+   </summary>
+   
 ## OpenPose2Image + Fix Hand + Upscale Image
 
 <table>
@@ -26,6 +32,9 @@ Use ComfyUI on Kaggle：https://www.kaggle.com/code/zhuangerror/comfyui
   </tr>
 </table>
 
+## OpenPose Image
+<img src="https://iili.io/d342LrJ.png" alt="OpenPose Image" width="250"/>
+
 ## Models Used
 * Text-to-Image：[AOM3A3_orangemixs.safetensors](https://huggingface.co/WarriorMama777/OrangeMixs#aom3a3)
 * VAE：[orangemix.vae.pt](https://huggingface.co/WarriorMama777/OrangeMixs)
@@ -33,3 +42,4 @@ Use ComfyUI on Kaggle：https://www.kaggle.com/code/zhuangerror/comfyui
 * HandRefiner：[control_sd15_inpaint_depth_hand_fp16.safetensors](https://huggingface.co/hr16/ControlNet-HandRefiner-pruned)
 * Depth：[control_v11f1p_sd15_depth_fp16.safetensors](https://huggingface.co/comfyanonymous/ControlNet-v1-1_fp16_safetensors)
 * Upscale：[4x-NMKD-YandereNeo.pth](https://openmodeldb.info/models/4x-NMKD-YandereNeo)
+</details>
